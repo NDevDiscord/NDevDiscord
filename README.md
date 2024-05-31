@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <style>
-        body,h1,h2,h3,h4,h5,h6,p,span {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
-            font-weight: 300 !important;
-        }
-    </style>
-</head>
 <body>
     <h1>Hi! im NDev.</h1>
     <p>Im a programmer from <strong>Russia</strong></p>
@@ -21,4 +8,3 @@
     <h1>What programming language i use?</h1>
     <p>Im using Python, its easy for me</p>
 </body>
-</html>
