@@ -1,4 +1,10 @@
 <body>
+    <style>
+        body,h1,h2,h3,h4,h5,h6,p,span {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+            font-weight: 300 !important;
+        }
+    </style>
     <h1>Hi! im NDev.</h1>
     <p>Im a programmer from <strong>Russia</strong></p>
     <p>But, DONT CALL ME AS HACKER 😤</p>
